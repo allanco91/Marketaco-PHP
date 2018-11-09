@@ -1,0 +1,9 @@
+{
+    "name": "Marketaco Delivery",
+    "description": "Aplicação web para controle de entregas", 
+    "autoload": {
+        "psr-4": {
+            "Marketaco\\": "app/"
+        }   
+    }
+}

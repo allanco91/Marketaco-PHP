@@ -1,0 +1,126 @@
+.navbar-desiree{
+	background: firebrick;
+	color: white;
+}
+.logotipo{
+	text-align: center;
+	padding-top: 100px;
+}
+.logar{
+	color: white;
+	text-align: center;
+}
+
+.btn-alerta{
+	width: 100%;
+	color: black;
+	background: teal;
+}
+.logar input{
+	margin-left: 10%;
+	width: 80%;
+	height: 40px;
+	text-transform: uppercase;
+	background: white;
+	border: 2px solid #550000;
+	border-radius: 5px;
+	color: black;
+}
+.logar input:focus{
+	margin-left: 10%;
+	width: 80%;
+	height: 40px;
+	text-transform: uppercase;
+	background: white;
+	border: 3px solid black;
+	border-radius: 5px;
+	color: black;
+}
+.logar button{
+	width: 80%;
+	background: #660000;
+	font-size: 18px;
+	font-weight: bold;
+	border: 2px solid #550000;
+}
+.logar button:hover{
+	color: white;
+}
+
+.menu-topo{
+	float: left;
+}
+.line{
+	border-bottom: 1px solid white;
+	padding: 5px;
+	padding-bottom: 15px;
+}
+.conteudo{
+	padding-top: 10px;
+	text-align: center;
+}
+.conteudo i{
+	font-size: 30px;
+}
+.conteudo_confirmar label{
+	float: left;
+	margin-top: 10px;
+}
+.informar-pagamentos{
+	margin-top: 5px;
+	width: 100%;
+}
+.form-desiree {
+	background-color: white;
+	border:0px;
+	width: 100%;
+	border-bottom: 2px solid firebrick;
+}
+.bnt-forma{
+	margin-top: 5px;
+	width: 33.33%;
+	height: 20px;
+}
+
+
+.caminhaozinho{
+	width: 45px;
+	height: 45px;
+	background-color: #fff;
+	border:0px;
+	background-image: url("https://png.icons8.com/delivery/dusk/40/000000");
+	background-repeat: no-repeat;
+	padding: 5px;
+}
+.deletar{
+	width: 45px;
+	height: 45px;
+	background-color: #fff;
+	border:0px;
+	background-image: url("https://png.icons8.com/cancel/color/40/000000");
+	background-repeat: no-repeat;
+	padding: 5px;
+}
+
+.confirmar{
+	width: 45px;
+	height: 45px;
+	background-color: #fff;
+	border:0px;
+	background-image: url("https://png.icons8.com/receive-cash/cotton/40/000000");
+	background-repeat: no-repeat;
+	padding: 5px;
+}
+#index{
+	background-color: firebrick;
+}
+body{
+	background-color: white;
+	width: 100%;
+}
+table th{
+	text-align: center;
+}
+table td{
+	text-align: center;
+}
